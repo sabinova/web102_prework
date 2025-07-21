@@ -1,44 +1,46 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Sabina Ruzieva
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **6-10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* ✅ The introduction section explains the background of the company and how many games remain unfunded.
+* ✅ The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* ✅ The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* ✅ The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* ✅ Sticky header that becomes transparent on scroll.
+* ✅ Hamburger menu for navigation with smooth animations.
+* ✅ Rotating tentacle logo on hover.
+* ✅ Clean, accessible color palette and hover effects on game buttons, cards
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap  
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges while building the app:
+1. Ensuring the header and hamburger menu behaved correctly on page load and on scroll.
+2. Debugging the menu toggle state to hide the close icon(X) properly when refreshing.
+3. Aligning the color scheme and responsiveness to look good on esktop and mobile
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [CodePath, Sabina Ruzieva]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
